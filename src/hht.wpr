@@ -1,0 +1,9 @@
+#!wing
+#!version=7.0
+##################################################################
+# Wing project file                                              #
+##################################################################
+[project attributes]
+proj.file-list = [loc('interactive.py'),
+                  loc('main.py')]
+proj.file-type = 'shared'
