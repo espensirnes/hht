@@ -37,6 +37,3 @@ plt.tight_layout()
 # Save the figure as png file with resolution of 300 dpi
 outfp = r"../data/static_map.png"
 plt.savefig(outfp, dpi=300)
-
-
-a=0
